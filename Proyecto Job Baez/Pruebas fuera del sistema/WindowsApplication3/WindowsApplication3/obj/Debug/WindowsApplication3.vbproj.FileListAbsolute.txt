@@ -1,0 +1,49 @@
+c:\users\4to informatica\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+c:\users\4to informatica\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\RepuestoDB.accdb
+c:\users\4to informatica\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+c:\users\4to informatica\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+c:\users\4to informatica\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+c:\users\4to informatica\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+c:\users\4to informatica\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+c:\users\4to informatica\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+c:\users\4to informatica\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+c:\users\4to informatica\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+c:\users\4to informatica\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+E:\2014\Proyecto Repuesto\Pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+E:\2014\Proyecto Repuesto\Pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+E:\2014\Proyecto Repuesto\Pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+E:\2014\Proyecto Repuesto\Pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+E:\2014\Proyecto Repuesto\Pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+E:\2014\Proyecto Repuesto\Pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+E:\2014\Proyecto Repuesto\Pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+E:\2014\Proyecto Repuesto\Pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+E:\2014\Proyecto Repuesto\Pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+E:\2014\Proyecto Repuesto\Pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Users\Daniel Beato\Documents\Proyecto Samuel\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\Daniel Beato\Documents\Proyecto Samuel\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\Daniel Beato\Documents\Proyecto Samuel\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\Daniel Beato\Documents\Proyecto Samuel\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\Daniel Beato\Documents\Proyecto Samuel\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\Daniel Beato\Documents\Proyecto Samuel\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\Daniel Beato\Documents\Proyecto Samuel\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\Daniel Beato\Documents\Proyecto Samuel\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+C:\Users\Daniel Beato\Documents\Proyecto Samuel\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\Daniel Beato\Documents\Proyecto Samuel\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Users\4TO INFORMATICA\Desktop\Proyecto Samuel\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\4TO INFORMATICA\Desktop\Proyecto Samuel\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\4TO INFORMATICA\Desktop\Proyecto Samuel\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\4TO INFORMATICA\Desktop\Proyecto Samuel\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\4TO INFORMATICA\Desktop\Proyecto Job Baez\Proyecto Job Baez\pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\4TO INFORMATICA\Desktop\Proyecto Job Baez\Proyecto Job Baez\pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\4TO INFORMATICA\Desktop\Proyecto Job Baez\Proyecto Job Baez\pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\4TO INFORMATICA\Desktop\Proyecto Job Baez\Proyecto Job Baez\pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Job Baez\Pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Job Baez\Pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Job Baez\Pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Job Baez\Pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\4TO INFORMATICA\Desktop\Proyecto Job Baez\Proyecto Job Baez\Pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\4TO INFORMATICA\Desktop\Proyecto Job Baez\Proyecto Job Baez\Pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\4TO INFORMATICA\Desktop\Proyecto Job Baez\Proyecto Job Baez\Pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\4TO INFORMATICA\Desktop\Proyecto Job Baez\Proyecto Job Baez\Pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+C:\Users\4TO INFORMATICA\Desktop\Proyecto Job Baez\Proyecto Job Baez\Pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\4TO INFORMATICA\Desktop\Proyecto Job Baez\Proyecto Job Baez\Pruebas fuera del sistema\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache

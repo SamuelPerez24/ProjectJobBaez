@@ -1,0 +1,1 @@
+SELECT MAX(cliID) AS ID FROM tClientes

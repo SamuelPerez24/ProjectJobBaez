@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E2B6BEBE-9E4A-4F39-8E1A-C15B256B6992}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>JobBaez_System.My.MyApplication</StartupObject>
+    <RootNamespace>JobBaez_System</RootNamespace>
+    <AssemblyName>JobBaez System</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>JobBaez System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>JobBaez System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="QuerysConDBlibrary">
+      <HintPath>..\..\..\..\QuerysConDBlibrary\QuerysConDBlibrary\bin\Debug\QuerysConDBlibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\Administracion\fAdministracion.Designer.vb">
+      <DependentUpon>fAdministracion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Administracion\fAdministracion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Clientes\fClientes.Designer.vb">
+      <DependentUpon>fClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Clientes\fClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Clientes\frepClientes.Designer.vb">
+      <DependentUpon>frepClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Clientes\frepClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Factura\frepFactura.Designer.vb">
+      <DependentUpon>frepFactura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Factura\frepFactura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Historico Mensual\frepHistorico.Designer.vb">
+      <DependentUpon>frepHistorico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Historico Mensual\frepHistorico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Ingreso\frepIngreso.Designer.vb">
+      <DependentUpon>frepIngreso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Ingreso\frepIngreso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Orden de Recepcion\fOrdenRecep.Designer.vb">
+      <DependentUpon>fOrdenRecep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Orden de Recepcion\fOrdenRecep.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Orden de Recepcion\frepOrdenRecep.Designer.vb">
+      <DependentUpon>frepOrdenRecep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Orden de Recepcion\frepOrdenRecep.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Pre Factura\frepPreFact.Designer.vb">
+      <DependentUpon>frepPreFact.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Pre Factura\frepPreFact.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Principal Forms\fAbout.Designer.vb">
+      <DependentUpon>fAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Principal Forms\fAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Principal Forms\fMenuPrincipal.Designer.vb">
+      <DependentUpon>fMenuPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Principal Forms\fMenuPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Principal Forms\fLogin.Designer.vb">
+      <DependentUpon>fLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Principal Forms\fLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Libraries\modVariables.vb" />
+    <Compile Include="Libraries\ConnectionQuerysClass.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\Administracion\fAdministracion.resx">
+      <DependentUpon>fAdministracion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Clientes\fClientes.resx">
+      <DependentUpon>fClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Orden de Recepcion\fOrdenRecep.resx">
+      <DependentUpon>fOrdenRecep.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Principal Forms\fLogin.resx">
+      <DependentUpon>fLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Principal Forms\fMenuPrincipal.resx">
+      <DependentUpon>fMenuPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Resources\Add40x40.fw.png" />
+    <Content Include="Resources\Cancel40x40.fw.png" />
+    <Content Include="Resources\Delete40x40.fw.png" />
+    <Content Include="Resources\Edit40x40.fw.png" />
+    <Content Include="Resources\Exit40x40.fw.png" />
+    <Content Include="Resources\First40x40.fw.png" />
+    <Content Include="Resources\Last40x40.fw.png" />
+    <Content Include="Resources\Lock.png" />
+    <Content Include="Resources\Next40x40.fw.png" />
+    <Content Include="Resources\Previous40x40.fw.png" />
+    <Content Include="Resources\Print40x40.fw.png" />
+    <Content Include="Resources\Search40x40.fw.png" />
+    <Content Include="Resources\ver.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
